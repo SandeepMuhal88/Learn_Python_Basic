@@ -1,0 +1,5 @@
+f=open("demo.txt",'rb')
+data=f.read()
+print(data)
+print(type(data))
+f.close()

@@ -1,9 +1,10 @@
 print("Sandeep Muhal")
 print("Perfrom operation:-)))) ")
-Name="Sandeep"
-c=153.25
-a=25 
-b=5
+
+Name=input("Enter name:-")
+a=int(input("Enter a number:-"))
+b=int(input("Enter a number:-"))
+c=float(input("Enter a number:-"))
 print("Sum=", a+b)
 print("Division=", a/b)
 print("Substracation=", a-b)

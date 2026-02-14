@@ -3,7 +3,6 @@ print("Enter two number:- ")
 a=int(input("Enter first number:- "))
 b=int(input("Second number:- "))
 # b=float(input())
-
 # sum=a+b
 # print("Sum of two number:-",sum)
 # multiply=a*b
